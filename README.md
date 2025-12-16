@@ -1,4 +1,4 @@
-# First Contributions
+# Open Portfolio Parade
 
 This project is designed to help beginners make their first contribution to an open-source project on GitHub. Contributors add their name, GitHub username, and portfolio link to the `contributors.md` file.
 
@@ -40,8 +40,20 @@ This project is designed to help beginners make their first contribution to an o
 - Ensure your portfolio link is accessible.
 - Be respectful and follow GitHub's community guidelines.
 
-## Contributors
+<!-- ## Contributors -->
 
-See [contributors.md](contributors.md) for the list of contributors.
+<!-- See [contributors.md](contributors.md) for the list of contributors. -->
 
-Happy contributing! 🚀
+# Contributors
+
+| Name          | GitHub          | Portfolio                          |
+|---------------|-----------------|------------------------------------|
+| John Doe     | @johndoe       | https://johndoe.dev               |
+| Jane Smith   | @janesmith     | https://janesmith.com             |
+
+
+| **Contributor**  |
+| ---------------- |
+| <img  src ="https://contrib.rocks/image?repo=samadpls/opensource"  > |
+
+Happy contributing!
