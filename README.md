@@ -1,59 +1,81 @@
-# Open Portfolio Parade
+# 🌐 Open Portfolio Parade
 
-This project is designed to help beginners make their first contribution to an open-source project on GitHub. Contributors add their name, GitHub username, and portfolio link to the `contributors.md` file.
+A friendly open‑source project where **anyone** can add their:
 
-## How to Contribute
+- Name  
+- GitHub username  
+- Portfolio link  
 
-1. **Fork this repository**: Click the "Fork" button at the top right of this page to create your own copy of the repository.
+Perfect for anyone making their **first GitHub contribution**.
 
-2. **Clone your fork**: 
-   ```
-   git clone https://github.com/your-username/first-contributions.git
-   cd first-contributions
-   ```
+---
 
-3. **Create a new branch**:
-   ```
-   git checkout -b add-your-name
-   ```
+## 🚀 Contribute in 3 Easy Steps
 
-4. **Add your details**: Open `contributors.md` and add a new row to the table with your name, GitHub username, and portfolio link.
+No complicated Git commands. No extra files.  
+Just **edit one line** and submit a pull request.
 
-5. **Commit your changes**:
-   ```
-   git add contributors.md
-   git commit -m "Add [Your Name] to contributors"
-   ```
+---
 
-6. **Push to your fork**:
-   ```
-   git push origin add-your-name
-   ```
+## Step 1: Fork this repository
 
-7. **Create a Pull Request**: Go to the original repository and click "New Pull Request". Select your branch and submit the PR.
+Click the **Fork** button at the top‑right of this page.  
+This creates your own copy of the project.
 
-## Rules
+---
 
-- Use your real name.
-- Provide a valid GitHub username (e.g., @username).
-- Include a link to your portfolio or personal website.
-- Ensure your portfolio link is accessible.
-- Be respectful and follow GitHub's community guidelines.
+## Step 2: Add your details
 
-<!-- ## Contributors -->
+1. Open your fork  
+2. Go to `README.md`  
+3. Scroll to the **Contributors** section  
+4. Add your entry in this exact format:
 
-<!-- See [contributors.md](contributors.md) for the list of contributors. -->
+```
+- **Your Name** | [githubusername](https://github.com/your-username) | [Portfolio](https://portfolio-link.com)
+```
 
-# Contributors
+Example:
+
+```
+- **Sohaib Malik** | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app)
+```
+
+
+---
+
+## Step 3: Submit a Pull Request
+
+1. Click **Commit changes**  
+2. Go back to your fork  
+3. Click **Compare & Pull Request**  
+4. Submit your PR  
+
+Once your PR is merged, your name will appear automatically in the contributors table and avatar wall.
+
+---
+
+## 👥 Contributors
 
 | Name          | GitHub          | Portfolio                          |
 |---------------|-----------------|------------------------------------|
-| John Doe     | @johndoe       | https://johndoe.dev               |
-| Jane Smith   | @janesmith     | https://janesmith.com             |
+| Sohaib Malik | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app/) |
 
+---
 
-| **Contributor**  |
-| ---------------- |
-| <img  src ="https://contrib.rocks/image?repo=samadpls/opensource"  > |
+## 🧱 Contributors Wall
 
-Happy contributing!
+<div align="center">
+  <img src="https://contrib.rocks/image?repo=sohaibdevv/open-portfolio-parade">
+</div>
+
+---
+
+## 📌 Rules
+
+To keep things clean:
+
+- Use your **real name**
+- Use a valid GitHub username (with `@`)
+- Add a working portfolio link
+- Only add **your own** entry
