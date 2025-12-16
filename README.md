@@ -8,21 +8,15 @@ A friendly open‑source project where **anyone** can add their:
 
 Perfect for anyone making their **first GitHub contribution**.
 
----
-
 ## 🚀 Contribute in 3 Easy Steps
 
 No complicated Git commands. No extra files.  
 Just **edit one line** and submit a pull request.
 
----
-
 ## Step 1: Fork this repository
 
 Click the **Fork** button at the top‑right of this page.  
 This creates your own copy of the project.
-
----
 
 ## Step 2: Add your details
 
@@ -41,9 +35,6 @@ Example:
 - **Sohaib Malik** | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app)
 ```
 
-
----
-
 ## Step 3: Submit a Pull Request
 
 1. Click **Commit changes**  
@@ -51,9 +42,7 @@ Example:
 3. Click **Compare & Pull Request**  
 4. Submit your PR  
 
-Once your PR is merged, your name will appear automatically in the contributors table and avatar wall.
-
----
+Once your PR is merged, your name will appear in the contributors table and avatar wall.
 
 ## 👥 Contributors
 
@@ -61,21 +50,8 @@ Once your PR is merged, your name will appear automatically in the contributors 
 |---------------|-----------------|------------------------------------|
 | Sohaib Malik | [sohaibdevv](https://github.com/sohaibdevv) | [Portfolio](https://sohaibmalikdev-portfolio.vercel.app/) |
 
----
-
 ## 🧱 Contributors Wall
 
 <div align="center">
   <img src="https://contrib.rocks/image?repo=sohaibdevv/open-portfolio-parade">
 </div>
-
----
-
-## 📌 Rules
-
-To keep things clean:
-
-- Use your **real name**
-- Use a valid GitHub username (with `@`)
-- Add a working portfolio link
-- Only add **your own** entry
